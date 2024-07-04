@@ -7,7 +7,7 @@
 **2024-5-27(월) ~ 2024-6-21(금)**
 
 ## ERD
-![erd](https://github.com/Sojeonge/book-shopping-mall/assets/105636727/c1086909-111f-4cf8-aa54-f7f650447db4)
+![erd](https://github.com/Sojeonge/book-shopping-mall/assets/105636727/300d76ca-c165-4a76-a878-74f6b7926e0a)
 
 
 ## API 명세서
