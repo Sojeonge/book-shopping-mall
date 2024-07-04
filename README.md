@@ -16,7 +16,12 @@
 <img width="560" alt="와이어프레임1" src="https://github.com/Sojeonge/book-shopping-mall/assets/105636727/85750109-7a17-4214-a285-c309db274a60">
 
 
-=> 일반 user가 접근 가능한 페이지
+=> 로그아웃 상태(즉, guest 상태)와 일반 user가 접근 가능한 페이지입니다.
+
+<img width="782" alt="와이어프레임2" src="https://github.com/Sojeonge/book-shopping-mall/assets/105636727/17885f3d-ed03-4d43-aa4f-25f5b670cd60">
+
+
+=> 관리자 user로 로그인했을때만 접근 가능한 페이지이며 관리자는 회원관리, 상품관리, 회원들의 주문관리, 도서의 카테고리 관리가 가능합니다.
 
 ## 💡 시연 사진
 
