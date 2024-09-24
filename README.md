@@ -10,11 +10,11 @@
 
 ### ✔︎ ERD
 ![erd.png](src/main/resources/images/erd.png)
-
+---
 
 ### ✔︎ API 명세서
 ![api.png](src/main/resources/images/api.png)
-
+---
 
 ### ✔︎ 와이어프레임
 ![wireFrame1.png](src/main/resources/images/wireFrame1.png)
@@ -24,7 +24,7 @@
 ![wireFrame2.png](src/main/resources/images/wireFrame2.png)
 
 => 관리자 user로 로그인했을때만 접근 가능한 페이지이며 관리자는 회원관리, 상품관리, 회원들의 주문관리, 도서의 카테고리 관리가 가능합니다.
-
+---
 
 ### ✔︎ 기술스택
 **► 백엔드**
