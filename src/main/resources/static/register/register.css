@@ -1,18 +1,31 @@
-.register-form-container {
+/* 중앙 배치를 위해 추가한 코드 */
+.register-user-form-container {
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
     height: 85vh;
+    flex-direction: column;
 }
 
-.register-form-box {
-    width: 30rem;
+.register-user-form-box {
+    width: 40rem;
+    padding: 2rem;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
 }
 
-.register-form-box .title {
+/* 환영합니다 텍스트 중앙 정렬 */
+.register-user-form-box .title {
     text-align: center;
+    margin-bottom: 2rem;
 }
 
-.register-form-box .button {
+/* 버튼 크기 및 위치 조정 */
+.button {
     font-weight: bold;
+    width: 100%;
+    max-width: 10rem;
+    margin: 0 auto;
+    display: block;
 }
+
